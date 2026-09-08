@@ -1,6 +1,7 @@
 # Jarvis Code Homebrew Tap
 
 ```bash
+brew trust --cask gkdms0910/jarvis-code/jarvis-code
 brew install --cask gkdms0910/jarvis-code/jarvis-code
 ```
 

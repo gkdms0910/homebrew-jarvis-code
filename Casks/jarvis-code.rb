@@ -8,7 +8,7 @@ cask "jarvis-code" do
   homepage "https://github.com/gkdms0910/jarvis-code"
 
   depends_on formula: "node"
-  depends_on macos: ">= :monterey"
+  depends_on macos: :monterey
 
   app "Jarvis Code.app"
   binary "#{appdir}/Jarvis Code.app/Contents/Resources/jarvis-code"
