@@ -1,6 +1,6 @@
 cask "jarvis-code" do
-  version "1.1.0"
-  sha256 "7e30e38c240854fd42fb30c22acfab84c30f42dbb172d278ef0cb5a6447f9f05"
+  version "1.2.0"
+  sha256 "090f31965ec6e5dd21b10e68548a70c33b54c801b6be3f2b2211fc7d8c2b23be"
 
   url "https://github.com/gkdms0910/jarvis-code/releases/download/v#{version}/Jarvis-Code-#{version}.zip"
   name "Jarvis Code"
