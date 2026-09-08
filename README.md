@@ -21,4 +21,4 @@ brew uninstall --cask jarvis-code
 ```
 
 [소스와 설치 문서](https://github.com/gkdms0910/jarvis-code/blob/main/docs/installation.md).
-설치된 v1.0.0 앱에서 복원한 개인 배포본이며 Apple 서명·공증은 포함되지 않습니다.
+v1.0.1 macOS 패키지이며 Apple 서명·공증은 포함되지 않습니다.
