@@ -21,4 +21,4 @@ brew uninstall --cask jarvis-code
 ```
 
 [소스와 설치 문서](https://github.com/gkdms0910/jarvis-code/blob/main/docs/installation.md).
-현재 배포 버전은 v1.3.3이며 Apple 서명·공증은 포함되지 않습니다.
+현재 배포 버전은 v1.4.0이며 Apple 서명·공증은 포함되지 않습니다.
